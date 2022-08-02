@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimerUI</string>
+    <string name="a">Facebook</string>
+    <string name="b">Youtube</string>
+    <string name="c">Twitter</string>
+    <string name="d">Linkdin</string>
+    <string name="e">Snapchat</string>
+    <string name="f">Instagram</string>
+    <string name="g">Whatsapp</string>
+</resources>
